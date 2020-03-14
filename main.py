@@ -32,7 +32,7 @@ def play(word):
     guessed_letters = []
     guessed_words = []
     tries = 6
-    print("Welcome to Hang Emoji!")
+    print("Welcome to Hang Emoji! 😱")
     time.sleep(0.8)
     print("Let's play a game.")
     print(display_hangman(tries))
