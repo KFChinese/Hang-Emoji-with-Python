@@ -4,3 +4,7 @@
 ## Youtube Video
 
 [![Hangman Video](https://img.youtube.com/vi/m4nEnsavl6w/0.jpg)](https://www.youtube.com/watch?v=m4nEnsavl6w)
+
+## Run it with Repl.it
+
+[![Run on Repl.it](https://repl.it/badge/github/KFChinese/Hang-Emoji-with-Python)](https://repl.it/github/KFChinese/Hang-Emoji-with-Python)
