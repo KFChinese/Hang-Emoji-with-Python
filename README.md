@@ -1,10 +1,11 @@
 # Hang Emoji 😱 with Python :snake:
 
-
+![Thinking Hangman](https://i.redd.it/t903v2u23hnz.png)
 
 
 [![Build Status](https://travis-ci.com/KFChinese/Hang-Emoji-with-Python.svg?token=zw6t3AGUhPJkPpwkTqXN&branch=master)](https://travis-ci.com/KFChinese/Hang-Emoji-with-Python)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://vaibhavsingh97.mit-license.org/)
+<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
 Play Hang Emoji :scream: with random words generated with the English Dictionary from [Random-Word](https://github.com/vaibhavsingh97/random-word)!
 
