@@ -77,8 +77,8 @@ def play(word):
             clear()
             print('"' + guess + '" is Not a valid guess.')
         print(display_hangman(tries))
-        print(word)
-        # ^For Debugging. Please Take Out!!!
+        #print("Answer Key:",word)
+        # ^Uncomment("#") above to get answer Key.
         print("The word has", len(word), "letters.")
         print("Answer:", word_completion)
         print("Letters Guessed:", guessed_letters)
@@ -90,7 +90,7 @@ def play(word):
         print("\n")
     if guessed:
         clear()
-        print(" 🥰-My Hero!")
+        print(" 🥰 -My Hero!")
         print("\\|/")
         print(" |")
         print("/ \\")
@@ -99,7 +99,7 @@ def play(word):
         clear()
     else:
         clear()
-        print(" 💀-Mission Failed. We'll get them next time.")
+        print(" 💀 -Mission Failed. We'll get them next time.")
         print("\\|/")
         print(" |")
         print("/ \\")
@@ -125,7 +125,7 @@ def display_hangman(tries):
         """
                    ==========
                    ||      |   
-                   ||      🥺-Help!
+                   ||      🥺 -Help!
                    ||     \\|/
                    ||      |
                    ||     /
