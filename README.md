@@ -19,7 +19,7 @@ If you love the repo, please :star2: it!  :heart:
 
 [![Run on Repl.it](https://repl.it/badge/github/KFChinese/Hang-Emoji-with-Python)](https://Hang-Emoji-with-Python.kfchinese.repl.run)
 > If the Console is stuck on "Connecting...", Please refresh the page. This is an ongoing issue with Repl.it.
-## Dependencies to Run on Local Computer
+## Dependencies Required to Run on Local Computer
 Requires `Random-Word` to be installed to your computer.
 
 ## Installation to Local Computer
